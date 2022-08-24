@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![A screenshot of the Desktop view](./Screenshot/DesktopView.png)
-![A screenshot of the Mobile View one](./Screenshot/MobileView-1st%20part.png)
-![A screenshot of the Mobile View one](./Screenshot/MobileView-2nd%20part.png)
+![A screenshot of the Desktop view](./Screenshot/DesktopView.png 'A screenshot of the Desktop view')
+![A screenshot of the Mobile View one](./Screenshot/MobileView-1st%20part.png 'A screenshot of the Mobile View one')
+![A screenshot of the Mobile View two](./Screenshot/MobileView-2nd%20part.png 'A screenshot of the Mobile View two')
 
 ### Links
 
